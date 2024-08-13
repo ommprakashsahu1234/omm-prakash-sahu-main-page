@@ -21,5 +21,5 @@ function isDesktop() {
 
   // Check if the device is not a desktop
   if (!isDesktop()) {
-    alert("For Best View, Open in Desktop");
+    alert("For Best View, Open in Desktop..\nOther Device Compatibility is not added...");
   }
